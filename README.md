@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isuruprasaddilhara
 - 👀 I’m interested programming 
-- 🌱 I’m currently learning ruby
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
