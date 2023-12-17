@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @isuruprasaddilhara
 - 👀 I’m interested programming 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--- 💞️ I’m looking to collaborate on ...--->
+- 📫 How to reach me Linkedin -  
 
 <!---
 isuruprasaddilhara/isuruprasaddilhara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
