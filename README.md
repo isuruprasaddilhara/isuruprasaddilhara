@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isuruprasaddilhara
+- 👋 Hi, I’m Isuru Prasad Dilhara
 - 👀 I’m interested in programming, Software Reverse engineering, and Offensive hacking.
 - 🌱 I’m currently Following a cyber security degree at Edith Cowan University
 <!--- 💞️ I’m looking to collaborate on ...--->
